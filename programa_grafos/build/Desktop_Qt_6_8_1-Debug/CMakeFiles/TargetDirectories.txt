@@ -1,0 +1,9 @@
+/home/abraham/prueba_2/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/prueba_2.dir
+/home/abraham/prueba_2/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/edit_cache.dir
+/home/abraham/prueba_2/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/abraham/prueba_2/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/list_install_components.dir
+/home/abraham/prueba_2/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install.dir
+/home/abraham/prueba_2/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/local.dir
+/home/abraham/prueba_2/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/install/strip.dir
+/home/abraham/prueba_2/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/prueba_2_autogen_timestamp_deps.dir
+/home/abraham/prueba_2/build/Desktop_Qt_6_8_1-Debug/CMakeFiles/prueba_2_autogen.dir
